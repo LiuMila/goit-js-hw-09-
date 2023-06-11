@@ -1,4 +1,4 @@
-git remote addname: Build and deploy to GitHub Pages
+git remote add name: Build and deploy to GitHub Pages
 
 on:
   push:
